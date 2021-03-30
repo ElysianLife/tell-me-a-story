@@ -1,4 +1,4 @@
-README.txt
+README.md
 
 Tell Me a Story (TMAS) - A Content-Based Children's Book Recommender
 TMAS is a content-based child book recommender system that takes in a book input by the user and recommends similar books based on similarities in the book description text using natural language processing (NLP); ranked by similarity scores. 
